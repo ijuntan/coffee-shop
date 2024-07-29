@@ -6,6 +6,6 @@ This github is a template for a fun and interactive ui coffeeshop website
 - Vertical Scrolling replaced by Horizontal Scrolling Menu
 - Video background
 - Image background animation
-
+- Responsive ui design
 
 
