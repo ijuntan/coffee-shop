@@ -19,7 +19,7 @@ function App() {
         { loading && <Loader/> }
         
         <video autoPlay muted loop preload="auto" onCanPlay={()=>setLoading(false)} className='fixed object-cover h-screen w-screen'>
-          <source src="/coffee.mp4" type="video/mp4"/>
+          <source src="coffee.mp4" type="video/mp4"/>
         </video>
 
         <div className='absolute top-0 left-0 mt-2 ml-2 px-4 z-[10] flex gap-2 items-center group hover:bg-white rounded-full cursor-default transition'>
